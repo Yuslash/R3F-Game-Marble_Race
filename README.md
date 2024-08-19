@@ -62,6 +62,7 @@ To run the project locally, follow these steps:
   - **`useGame.jsx`**: Game state management.
 
 ✨ Credits
+
 Bruno Simon: A big thank you to Bruno Simon, whose tutorials and projects were instrumental in learning how to create this game. His work in the 3D web development space is truly inspiring.
 
 ---
